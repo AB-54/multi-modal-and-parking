@@ -1,0 +1,12 @@
+database_connection_parameters:
+  host: 10.1.2.6
+  port: 5432
+  user: tgsadmin@tfn-gis-server
+  password: MapData@01
+  database: gis_db
+
+output_folder: C:\Users\Cryptic\Documents\GitHub\Land-Use\land_use\abp_processing\abp output
+lsoa_shapefile:
+  path: O:\TrafficMaster\LSOA Zoning System\GB_LSOAGrids_Final.shp
+  id_column: OBJECTID
+year_filter: 2022
